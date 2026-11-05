@@ -11,13 +11,13 @@ name:
 postnominals:
   - MSc
 status:
-  icon: "🎓"
+  icon: "📌"
 role: PhD Student in Planetary Sciences
 bio: |
-  I'm Melih Çakar
+  I'm Melih Çakar.
 
 affiliations:
-  - name: Planetary Sciences and Remote Sensing | Institute of Geological Sciences | Freie Universität Berlin 
+  - name: Planetary Sciences and Remote Sensing | Freie Universität Berlin
     url: https://www.geo.fu-berlin.de/en/geol/fachrichtungen/planet/projects/planetology-grouppage/index.html
 
 links:
@@ -30,63 +30,24 @@ links:
     url: https://github.com/melihcakar27-source
   - icon: brands/linkedin
     url: https://www.linkedin.com/
-  - icon: academicons/google-scholar
-    url: https://scholar.google.com/
-  - icon: academicons/orcid
-    url: https://orcid.org/
 
 interests:
-  - Yapay Zeka (AI)
-  - Makine Öğrenmesi
-  - Veri Analizi
-  - Bilgisayar Bilimleri
+  - Planetary Sciences
+  - Remote Sensing
+  - Geology
 
 education:
-  - degree: Yüksek Lisans / Doktora
+  - degree: PhD in Planetary Sciences
+    institution: Freie Universität Berlin
+    start: 2024-01-01
+  - degree: MSc
     institution: Üniversite Adı
     start: 2021-09-01
-    end: 2024-06-30
-    summary: |
-      Tez konusu veya uzmanlık alanı hakkında kısa bilgi.
-  - degree: Lisans
-    institution: Üniversite Adı
-    start: 2017-09-01
-    end: 2021-06-30
+    end: 2023-06-30
 
 experience:
-  - role: Araştırma Görevlisi / Pozisyon
-    org: Kurum Adı
-    start: 2022-01-01
+  - role: PhD Student
+    org: Freie Universität Berlin
+    start: 2024-01-01
     summary: |
-      Yürütülen projeler ve üstlenilen sorumluluklar hakkında açıklama.
-
-skills:
-  - name: Teknik Beceriler
-    items:
-      - label: Python
-        level: 5
-      - label: Veri Analizi
-        level: 4
-      - label: SQL / Veritabanı
-        level: 4
-  - name: Akademik Beceriler
-    items:
-      - label: Akademik Yazım
-        level: 5
-      - label: Sunum & Anlatım
-        level: 4
-
-languages:
-  - name: Türkçe
-    level: 5
-    label: Ana Dili
-  - name: İngilizce
-    level: 4
-    label: İleri Düzey
-
-awards:
-  - title: Başarı / Ödül Adı
-    awarder: Ödülü Veren Kurum
-    date: "2023-12-01"
-    summary: Ödül veya derece hakkında kısa açıklama.
-    icon: hero/trophy
+      Researching planetary geology and remote sensing datasets.
